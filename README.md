@@ -8,4 +8,4 @@ A list of community related books
 - The Art of Community by Charles Vogl
 - Building Brand Communities by by Carrie Melissa Jones, Charles Vogl
 - The Art of Community by Jono Bacon
-- People Powered by Jono Bacon
+- People Powered by Jono Bacon, Peter H. Diamandis
