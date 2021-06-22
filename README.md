@@ -9,3 +9,4 @@ A list of community related books
 - Building Brand Communities by by Carrie Melissa Jones, Charles Vogl
 - The Art of Community by Jono Bacon
 - People Powered by Jono Bacon, Peter H. Diamandis
+- Get Together by Bailey Richardson, Kevin Huynh, Kai Elmer Sotto
