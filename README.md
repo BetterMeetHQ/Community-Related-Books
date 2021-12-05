@@ -17,3 +17,4 @@ A list of community related books
 - The Art of Community by Jono Bacon
 - The Business of Belonging by David Spinks
 - The Indispensable Community by Richard Millington
+- The Virtual Community by Howard Rheingold 
