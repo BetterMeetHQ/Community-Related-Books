@@ -7,6 +7,7 @@ A list of community related books
 - Building Successful Online Communities by Robert E. Kraut, Paul Resnick, Sara Kiesler, Moira Burke, Yan Chen
 - Buzzing Communities by Richard Millington
 - Community Building on the Web by Amy Jo Kim
+- Connecting to Change the World by John Cleveland, Madeleine Taylor, Peter Plastrik
 - Design to Thrive by Tharon Howard
 - Get Together by Bailey Richardson, Kevin Huynh, Kai Elmer Sotto
 - Managing Online Forums by Patrick O'Keefe
