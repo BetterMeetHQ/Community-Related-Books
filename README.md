@@ -16,5 +16,6 @@ A list of community related books
 - The Art of Community by Charles Vogl
 - The Art of Community by Jono Bacon
 - The Business of Belonging by David Spinks
+- The Cluetrain Manifesto (10th Anniversary Edition) by Rick Levine
 - The Indispensable Community by Richard Millington
 - The Virtual Community by Howard Rheingold 
