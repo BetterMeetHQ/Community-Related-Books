@@ -12,6 +12,7 @@ A list of community related books
 - Design to Thrive by Tharon Howard
 - Digital Habitats by Etienne Wenger
 - Get Together by Bailey Richardson, Kevin Huynh, Kai Elmer Sotto
+- Groundswell, Expanded and Revised Edition by Charlene Li, Joshua Bernoff
 - Managing Online Forums by Patrick O'Keefe
 - Online Community Management For Dummies by Deborah Ng
 - People Powered by Jono Bacon, Peter H. Diamandis
