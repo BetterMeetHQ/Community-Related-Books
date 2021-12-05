@@ -2,6 +2,7 @@
 
 A list of community related books
 
+- 18 Rules of Community Engagement by Angela Connor
 - Build Your Community by Richard Millington
 - Building Brand Communities by by Carrie Melissa Jones, Charles Vogl
 - Building Successful Online Communities by Robert E. Kraut, Paul Resnick, Sara Kiesler, Moira Burke, Yan Chen
