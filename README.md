@@ -9,6 +9,7 @@ A list of community related books
 - Community Building on the Web by Amy Jo Kim
 - Connecting to Change the World by John Cleveland, Madeleine Taylor, Peter Plastrik
 - Design to Thrive by Tharon Howard
+- Digital Habitats by Etienne Wenger
 - Get Together by Bailey Richardson, Kevin Huynh, Kai Elmer Sotto
 - Managing Online Forums by Patrick O'Keefe
 - Online Community Management For Dummies by Deborah Ng
