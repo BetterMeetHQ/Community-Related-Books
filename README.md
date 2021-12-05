@@ -22,3 +22,5 @@ A list of community related books
 - The Cluetrain Manifesto (10th Anniversary Edition) by Rick Levine
 - The Indispensable Community by Richard Millington
 - The Virtual Community by Howard Rheingold 
+- Cognitive Surplus by Clay Shirky
+- Here Comes Everybody by Clay Shirky
