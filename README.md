@@ -8,6 +8,7 @@ A list of community related books
 - Buzzing Communities by Richard Millington
 - Community Building on the Web by Amy Jo Kim
 - Connecting to Change the World by John Cleveland, Madeleine Taylor, Peter Plastrik
+- Cultivating Communities of Practice by Etienne Wenger, Richard A. McDermott, William Snyder
 - Design to Thrive by Tharon Howard
 - Digital Habitats by Etienne Wenger
 - Get Together by Bailey Richardson, Kevin Huynh, Kai Elmer Sotto
