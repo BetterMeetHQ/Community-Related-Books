@@ -36,3 +36,7 @@ A list of community related books
 1. The Whuffie Factor by Tara Hunt
 1. Tribes by Seth Godin
 1. Trust Agents by Chris Brogan
+
+---
+
+- The Community Manager's Playbook: How to Build Brand Awareness and Customer Engagement by Lauren Perkins
